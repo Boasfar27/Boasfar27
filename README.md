@@ -1,5 +1,5 @@
 # 💫 About Me:
-Saya adalah mahasiswa Program Studi Sistem Informasi Universitas Negeri Surabaya, saat ini sedang menempuh semester 4. Menjadi seorang programmer sudah menjadi cita-cita saya sejak dua tahun lalu saat masih duduk di bangku SMA. Saya sangat tertarik untuk mengembangkan kemampuan di bidang teknologi informasi, khususnya pengembangan website dengan fokus sebagai front-end developer. Saya juga aktif sebagai anggota BEM Fakultas Teknik Departemen Advokesma, dan memiliki semangat untuk terus belajar agar dapat mengikuti perkembangan teknologi yang terus berkembang di masa kini dan masa yang akan datang.<br><br>
+Saya adalah mahasiswa Program Studi Sistem Informasi Universitas Negeri Surabaya, saat ini sedang menempuh semester 3. Menjadi seorang programmer sudah menjadi cita-cita saya sejak dua tahun lalu saat masih duduk di bangku SMA. Saya sangat tertarik untuk mengembangkan kemampuan di bidang teknologi informasi, khususnya pengembangan website dengan fokus sebagai front-end developer. Saya juga aktif sebagai anggota BEM Fakultas Teknik Departemen Advokesma, dan memiliki semangat untuk terus belajar agar dapat mengikuti perkembangan teknologi yang terus berkembang di masa kini dan masa yang akan datang.<br><br>
 
 
 ## 🌐 Socials:
